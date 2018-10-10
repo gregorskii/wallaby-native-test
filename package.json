@@ -1,0 +1,33 @@
+{
+  "name": "my-new-project",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node ./node_modules/jest/bin/jest.js --watchAll"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "@expo/samples": "2.1.1",
+    "react": "16.3.1",
+    "react-native": "0.57.1",
+    "react-native-config": "^0.11.5",
+    "react-navigation": "^2.9.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/runtime": "^7.1.2",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.6.0",
+    "babel-preset-jest": "^23.2.0",
+    "dotenv": "^6.1.0",
+    "jest": "^23.6.0",
+    "jest-react-native": "^18.0.0",
+    "metro-react-native-babel-preset": "^0.48.0",
+    "react-native-mock-render": "^0.1.2",
+    "react-test-renderer": "^16.5.2"
+  }
+}

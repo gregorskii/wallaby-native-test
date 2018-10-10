@@ -1,0 +1,245 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshot renders the loading screen 1`] = `
+<react-native-mock>
+  <react-native-mock />
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                <react-native-mock>
+                  <react-native-mock>
+                    <react-native-mock>
+                      <react-native-mock>
+                        <react-native-mock>
+                          Get started by opening
+                        </react-native-mock>
+                        <react-native-mock>
+                          <react-native-mock>
+                            screens/HomeScreen.js
+                          </react-native-mock>
+                        </react-native-mock>
+                        <react-native-mock>
+                          Change this text and your app will automatically reload.
+                        </react-native-mock>
+                      </react-native-mock>
+                      <react-native-mock>
+                        <react-native-mock>
+                          <react-native-mock>
+                            Help, it didn’t automatically reload!
+                          </react-native-mock>
+                        </react-native-mock>
+                      </react-native-mock>
+                    </react-native-mock>
+                    <react-native-mock>
+                      <react-native-mock>
+                        This is a tab bar. You can edit it in:
+                      </react-native-mock>
+                      <react-native-mock>
+                        <react-native-mock>
+                          navigation/MainTabNavigator.js
+                        </react-native-mock>
+                      </react-native-mock>
+                    </react-native-mock>
+                  </react-native-mock>
+                </react-native-mock>
+              </react-native-mock>
+              <react-native-mock>
+                <react-native-mock>
+                  <react-native-mock>
+                    <react-native-mock />
+                  </react-native-mock>
+                </react-native-mock>
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+          </react-native-mock>
+          <react-native-mock>
+            Home
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+          </react-native-mock>
+          <react-native-mock>
+            Links
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+          </react-native-mock>
+          <react-native-mock>
+            Settings
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+  </react-native-mock>
+</react-native-mock>
+`;
+
+exports[`App snapshot renders the root without loading screen 1`] = `
+<react-native-mock>
+  <react-native-mock />
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                <react-native-mock>
+                  <react-native-mock>
+                    <react-native-mock>
+                      <react-native-mock>
+                        <react-native-mock>
+                          Get started by opening
+                        </react-native-mock>
+                        <react-native-mock>
+                          <react-native-mock>
+                            screens/HomeScreen.js
+                          </react-native-mock>
+                        </react-native-mock>
+                        <react-native-mock>
+                          Change this text and your app will automatically reload.
+                        </react-native-mock>
+                      </react-native-mock>
+                      <react-native-mock>
+                        <react-native-mock>
+                          <react-native-mock>
+                            Help, it didn’t automatically reload!
+                          </react-native-mock>
+                        </react-native-mock>
+                      </react-native-mock>
+                    </react-native-mock>
+                    <react-native-mock>
+                      <react-native-mock>
+                        This is a tab bar. You can edit it in:
+                      </react-native-mock>
+                      <react-native-mock>
+                        <react-native-mock>
+                          navigation/MainTabNavigator.js
+                        </react-native-mock>
+                      </react-native-mock>
+                    </react-native-mock>
+                  </react-native-mock>
+                </react-native-mock>
+              </react-native-mock>
+              <react-native-mock>
+                <react-native-mock>
+                  <react-native-mock>
+                    <react-native-mock />
+                  </react-native-mock>
+                </react-native-mock>
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+          </react-native-mock>
+          <react-native-mock>
+            Home
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+          </react-native-mock>
+          <react-native-mock>
+            Links
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+            <react-native-mock>
+              <span>
+                ICON
+              </span>
+            </react-native-mock>
+          </react-native-mock>
+          <react-native-mock>
+            Settings
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+  </react-native-mock>
+</react-native-mock>
+`;
