@@ -8,6 +8,10 @@ module.exports = (wallaby) => {
         instrument: false
       },
       {
+        pattern: '.env',
+        instrument: false
+      },
+      {
         pattern: '.babelrc',
         instrument: false
       },
